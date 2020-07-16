@@ -16,7 +16,7 @@ const BookList = () => {
         </ul>
       </div>
    ) : (
-    <div className="empty">No books to ReadableStream. Hello Free Time!</div>
+    <div className="empty">No books to Read. Hello Free Time!</div>
   );
 }
  
